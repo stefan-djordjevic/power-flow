@@ -1,0 +1,2 @@
+  10  !Broj deonica
+  10  !Broj potrosaca
